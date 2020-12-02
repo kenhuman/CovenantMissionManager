@@ -1,0 +1,10 @@
+## Interface: 90002
+## Title: Covenant Mission Manager
+## Author: Ken Human
+## Version: 0.1
+
+## LoadOnDemand: 1
+## LoadWith: Blizzard_GarrisonUI
+## RequiredDeps: Blizzard_GarrisonUI
+
+main.lua
